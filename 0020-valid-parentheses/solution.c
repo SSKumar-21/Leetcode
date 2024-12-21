@@ -1,4 +1,3 @@
-#include<string.h>
 bool isValid(char* s) {
     char sta[strlen(s)],c;  
     int i = 0, end = -1;
