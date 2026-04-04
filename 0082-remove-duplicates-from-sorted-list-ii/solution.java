@@ -10,39 +10,22 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head==null || head.next==null){
-            return head;
-        }
-        
-        HashMap<Integer,Integer> map = new HashMap<>();
-        ListNode curr = head;
-        while(curr!=null){
-            if(map.containsKey(curr.val)){
-                int c = map.get(curr.val);
-                map.put(curr.val,c+1);
+        if(head == null || head.next == null) return head;
+        ListNode temp1 = head;
+        ListNode prv = new ListNode(-1);
+        prv.next = head;
+        ListNode a = prv;
+
+        while(temp1 != null && temp1.next != null){
+            if(temp1.val == temp1.next.val){
+                while (temp1.next != null && temp1.val == temp1.next.val) temp1 = temp1.next;
+                a.next = temp1.next;
+                temp1 = temp1.next;
             } else {
-                map.put(curr.val,1);
-            }
-            curr = curr.next;
-        }
-
-        ArrayList<Integer> arr = new ArrayList<>();
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-            if(entry.getValue()==1){
-                arr.add(entry.getKey());
+            a = temp1;
+            temp1 = temp1.next;
             }
         }
-        
-        Collections.sort(arr);
-
-        ListNode res = new ListNode(0);
-        curr = res ;
-        for(int i=0 ;i<arr.size();i++){
-            ListNode temp = new ListNode(arr.get(i),null);
-            curr.next = temp;
-            curr = curr.next;
-        }
-        res = res.next;
-        return res;
+        return prv.next;
     }
 }
