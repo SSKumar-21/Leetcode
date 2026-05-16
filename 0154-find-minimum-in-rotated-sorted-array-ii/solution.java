@@ -1,9 +1,21 @@
 class Solution {
     public int findMin(int[] nums) {
-        int min=5000;
-        for(int i=0;i<nums.length;i++){
-            min=Math.min(min,nums[i]);
+        int n = nums.length - 1;
+        int last = nums[n];
+        int left = 0, right = n;
+
+        while (left < n && nums[left] == last)
+            left++;
+
+        while (left < right) {
+            int mid = left + right >> 1;
+
+            if (nums[mid] > last)
+                left = mid + 1;
+            else
+                right = mid;
         }
-        return min;
+
+        return nums[left];
     }
 }
