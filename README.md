@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SSKumar-21/Leetcode/tree/master/0015-3sum) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SSKumar-21/Leetcode/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
