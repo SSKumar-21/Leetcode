@@ -1,19 +1,23 @@
 class Solution {
-    Map<Integer,Integer> map = new HashMap<>();
     public int rob(int[] nums) {
         int n = nums.length;
-        return solve(nums,n-1);
-    }
-    private int solve(int[] nums, int idx){
-        if(idx == 0) return nums[0];
-        if(idx == 1) return Math.max(nums[1],nums[0]);
-        if (map.containsKey(idx)){
-            return map.get(idx);
+        if(n == 2){
+            return Math.max(nums[1],nums[0]);
         }
-        int rob = nums[idx] + solve(nums, idx - 2);
-        int notRob = solve(nums,idx - 1);
-        int max = Math.max(rob,notRob);
-        map.put(idx, max);
-        return max;
+
+        if (n == 1){
+            return nums[0];
+        }
+
+        int[] dp = new int[n];
+        dp[0] = nums[0];
+        dp[1] = Math.max(nums[1],nums[0]);
+
+        for(int i = 2;i<n;i++){
+            int c = nums[i] + dp[i-2];
+            dp[i] = Math.max(c, dp[i - 1]);
+        }
+
+        return dp[n-1];
     }
 }
