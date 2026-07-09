@@ -1,33 +1,41 @@
 class Solution {
-    public int minDistance(String word1, String word2) {
-        int n = word1.length();
-        int m = word2.length();
+    public int minDistance(String a, String b) {
+        int n = a.length();
+        int m = b.length();
 
-        if (n==0 ){
+        int[][] dp = new int[n + 1][m + 1];
+        for (int[] row : dp)
+            Arrays.fill(row, -1);
+
+        return solve(a, b, n, m, dp);
+    }
+
+    private int solve(String a, String b, int n, int m, int[][] dp) {
+        if (n == 0 && m == 0) {
+            return 0;
+        }
+        if (n == 0) {
             return m;
         }
-        if (m==0) {
+        if (m == 0) {
             return n;
         }
+        int res = 0;
+        if (dp[n - 1][m - 1] != -1) {
+            return dp[n - 1][m - 1];
+        }
+        if (a.charAt(n - 1) == b.charAt(m - 1)) {
 
-        int[][] dp = new int[n+1][m+1];
+            res = solve(a, b, n - 1, m - 1, dp);
 
-        for(int i = 1;i<=n;i++){
-            dp[i][0] = i;
+        } else {
+
+            int i = solve(a, b, n, m - 1, dp);
+            int d = solve(a, b, n - 1, m, dp);
+            int r = solve(a, b, n - 1, m - 1, dp);
+            res = Math.min(i, d);
+            res = Math.min(res, r) + 1;
         }
-        for(int i = 1;i<=m;i++){
-            dp[0][i] = i;
-        }
-        for(int i = 1;i<=n;i++){
-            for(int j=1;j<=m;j++){
-                if(word1.charAt(i - 1) == word2.charAt(j-1)){
-                    dp[i][j] = dp[i-1][j-1];
-                } else {
-                    int ele = Math.min(dp[i-1][j], dp[i][j-1]) ;
-                    dp[i][j] = Math.min(dp[i-1][j-1], ele) + 1;
-                }
-            }
-        }
-        return dp[n][m];
+        return dp[n - 1][m - 1] = res;
     }
 }
