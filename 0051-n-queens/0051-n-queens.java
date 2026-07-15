@@ -33,7 +33,7 @@ class Solution {
     }
 
     private boolean Check(int row, int col, boolean[][] board) {
-        for (int i = 0; i < board[0].length; i++) {
+        for (int i = 0; i < row; i++) {
             if (board[i][col]) {
                 return false;
             }
