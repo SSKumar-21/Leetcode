@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SSKumar-21/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SSKumar-21/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SSKumar-21/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/SSKumar-21/Leetcode/tree/master/0198-house-robber) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SSKumar-21/Leetcode/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SSKumar-21/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SSKumar-21/Leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SSKumar-21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/SSKumar-21/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
