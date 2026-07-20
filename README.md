@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SSKumar-21/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0494-target-sum) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SSKumar-21/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SSKumar-21/Leetcode/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SSKumar-21/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
