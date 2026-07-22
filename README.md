@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/SSKumar-21/Leetcode/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,4 +199,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSKumar-21/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0112-path-sum) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
