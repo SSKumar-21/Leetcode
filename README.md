@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3895-count-digit-appearances](https://github.com/SSKumar-21/Leetcode/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SSKumar-21/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3895-count-digit-appearances](https://github.com/SSKumar-21/Leetcode/tree/master/3895-count-digit-appearances) |
 ## String
 |  |
 | ------- |
