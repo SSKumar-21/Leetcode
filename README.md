@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2843-count-symmetric-integers](https://github.com/SSKumar-21/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2843-count-symmetric-integers](https://github.com/SSKumar-21/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SSKumar-21/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3894-traffic-signal-color](https://github.com/SSKumar-21/Leetcode/tree/master/3894-traffic-signal-color) |
