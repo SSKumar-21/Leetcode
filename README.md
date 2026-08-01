@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/SSKumar-21/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2843-count-symmetric-integers](https://github.com/SSKumar-21/Leetcode/tree/master/2843-count-symmetric-integers) |
