@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0494-target-sum) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
 | [0980-unique-paths-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SSKumar-21/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
