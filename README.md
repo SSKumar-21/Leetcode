@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SSKumar-21/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/SSKumar-21/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -234,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
