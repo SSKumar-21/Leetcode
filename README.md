@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SSKumar-21/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SSKumar-21/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/SSKumar-21/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SSKumar-21/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/SSKumar-21/Leetcode/tree/master/2843-count-symmetric-integers) |
 ## Depth-First Search
 |  |
