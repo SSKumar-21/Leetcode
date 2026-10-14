@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/SSKumar-21/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SSKumar-21/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/SSKumar-21/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SSKumar-21/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Backtracking
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/SSKumar-21/Leetcode/tree/master/0486-predict-the-winner) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/SSKumar-21/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SSKumar-21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SSKumar-21/Leetcode/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Simulation
