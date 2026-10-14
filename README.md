@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SSKumar-21/Leetcode/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Backtracking
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/SSKumar-21/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/SSKumar-21/Leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SSKumar-21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SSKumar-21/Leetcode/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Simulation
