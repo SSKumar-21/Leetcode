@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SSKumar-21/Leetcode/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/SSKumar-21/Leetcode/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/SSKumar-21/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/SSKumar-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SSKumar-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
+| [0844-backspace-string-compare](https://github.com/SSKumar-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/SSKumar-21/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3894-traffic-signal-color](https://github.com/SSKumar-21/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Recursion
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/SSKumar-21/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SSKumar-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
