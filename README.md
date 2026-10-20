@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SSKumar-21/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
 | [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SSKumar-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/SSKumar-21/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2864-maximum-odd-binary-number](https://github.com/SSKumar-21/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/SSKumar-21/Leetcode/tree/master/0856-score-of-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SSKumar-21/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
