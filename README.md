@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0494-target-sum) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
 | [0980-unique-paths-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SSKumar-21/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/SSKumar-21/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/SSKumar-21/Leetcode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SSKumar-21/Leetcode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
+| [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
 | [0980-unique-paths-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SSKumar-21/Leetcode/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/SSKumar-21/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0749-contain-virus](https://github.com/SSKumar-21/Leetcode/tree/master/0749-contain-virus) |
+| [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
