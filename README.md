@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SSKumar-21/Leetcode/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SSKumar-21/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/SSKumar-21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/SSKumar-21/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/SSKumar-21/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SSKumar-21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/SSKumar-21/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SSKumar-21/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SSKumar-21/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SSKumar-21/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/SSKumar-21/Leetcode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/SSKumar-21/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/SSKumar-21/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SSKumar-21/Leetcode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/SSKumar-21/Leetcode/tree/master/0491-non-decreasing-subsequences) |
