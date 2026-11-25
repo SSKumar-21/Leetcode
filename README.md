@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/SSKumar-21/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/SSKumar-21/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2864-maximum-odd-binary-number](https://github.com/SSKumar-21/Leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [3163-string-compression-iii](https://github.com/SSKumar-21/Leetcode/tree/master/3163-string-compression-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/SSKumar-21/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3894-traffic-signal-color](https://github.com/SSKumar-21/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Prefix Sum
